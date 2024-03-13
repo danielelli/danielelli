@@ -7,3 +7,4 @@
 - 📫 How to reach me: dan(dot)elli(at)outlook(dot)com
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: I make Linux Rices for fun. I am working towards reaching a 1200 rating in Chess this year.
+- 🔍 Currently curious about [Gleam!](gleam.run) ⭐
