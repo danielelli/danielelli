@@ -1,10 +1,4 @@
-### Hi there! 👋
+> current objective : Starting TeachYourselfCS & The Odin Project
 
-- 🔭 I’m currently working on Odin Project
-- 🌱 I’m currently learning Java (DS/A && OOP), Front-end Development @ Odin Project
-- 👯 I’m looking to collaborate on beginner-friendly repos
-- 🤔 I’m looking for help with Databases and Back-end Development
-- 📫 How to reach me: dan(dot)elli(at)outlook(dot)com
-- 😄 Pronouns: `He/Him`
-- ⚡ Fun fact: I make Linux Rices for fun. I am working towards reaching a 1200 rating in Chess this year.
-- 🔍 Currently curious about [Gleam!](https://gleam.run) ⭐
+Currently Reading: [Structure and Interpretation
+of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) by Harold Abelson and Gerald Jay Sussman with Julie Sussman, and Tao Te Ching by Lao Tzu
